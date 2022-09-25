@@ -1,0 +1,18 @@
+body {
+  background-color: #2c2038;
+  font-family: "Roboto";
+}
+
+.content {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  border: 2px solid #8f65b9;
+  border-radius: 5px;
+}
+
+#clock {
+  color: aquamarine;
+  font-size: 48px;
+  width: 100%;
+}
